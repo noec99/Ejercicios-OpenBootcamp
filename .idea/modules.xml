@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicios-OpenBootcamp.iml" filepath="$PROJECT_DIR$/.idea/Ejercicios-OpenBootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase coche/clase coche.iml" filepath="$PROJECT_DIR$/clase coche/clase coche.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcion tres parametros/funcion tres parametros.iml" filepath="$PROJECT_DIR$/funcion tres parametros/funcion tres parametros.iml" />
     </modules>
   </component>
